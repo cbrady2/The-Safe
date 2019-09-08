@@ -1,0 +1,34 @@
+<html>
+		<head>
+		<style>
+			body {
+				background-color: #b24648;
+				margin-left: 20%;
+				margin-right: 20%;
+				border: 2px dotted black;
+				padding: 10px 10px 10px 10px;
+				font-family: sans-serif;
+			}
+			</style>
+			<title> Top 3 Basketball teams of all time </title>
+		</head>
+		<body>
+			<h1> Top 3 Basketball teams of All Time </h1>
+
+			<h2>
+			1995-1996 Chicago Bulls </h2>
+			<p>A phenomenal team that finished with a record of 72-10 in a star packed era says it all. And by the way
+      they had Michael Jordan.</p>
+
+			<h2>
+			2016-2017 Golden State Warriors </h2>
+			<p>A team that was 73-9 the season before adds one of the best scorers of all time in Kevin Durant.
+      It has 4 hall of famers on the roster, and ran through the entire NBA that season.</p>
+
+			<h2>
+			1971-72 Los Angeles Lakers</h2>
+			<p>History is sometimes forgotten. But this star packed team in the 70's is not. They still hold the record for a 33 game win 
+      streak which is a feat that may not be beaten in a long time. They ran through the NBA this season to secure a title with ease.</p>
+
+		</body>
+</html>
